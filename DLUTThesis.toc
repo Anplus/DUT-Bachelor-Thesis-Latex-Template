@@ -1,0 +1,8 @@
+\contentsline {chapter}{\chapternumberline {1}正文格式说明}{1}
+\contentsline {section}{\numberline {1.1}论文格式基本要求}{2}
+\contentsline {section}{\numberline {1.2}论文页眉页脚的编排}{2}
+\contentsline {section}{\numberline {1.3}论文正文格式}{2}
+\contentsline {section}{\numberline {1.4}章节标题格式}{2}
+\contentsline {section}{\numberline {1.5}各章之间的分隔符设置}{3}
+\contentsline {section}{\numberline {1.6}正文中的编号}{3}
+\contentsline {appendix}{\chapternumberline {A}附录1}{4}
